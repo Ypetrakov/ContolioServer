@@ -1,0 +1,1 @@
+data class CommandMessage(val command String    )
